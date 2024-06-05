@@ -2,13 +2,13 @@ MusicPro es un proyecto de la asignatura Integración de plataformas, este mismo
 a su vez utilizamos Sql Server como base de datos local para la realizacion de un registro de datos y usuarios dentro de la misma.
 
 
-===============================
+=====
 CREACION DE BASE DE DATOS
 ===============================
 
 CREATE DATABASE waMusicPro
 
-===============================
+=====
 CREACION DE TABLAS
 ===============================
 
@@ -42,7 +42,7 @@ CREATE TABLE DetalleCarrito (
     cantidad INT NOT NULL
 );
 
-===============================
+=====
 POBLAR TABLAS
 ===============================
 
