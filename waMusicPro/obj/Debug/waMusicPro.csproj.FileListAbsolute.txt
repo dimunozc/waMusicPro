@@ -1,0 +1,927 @@
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\waMusicPro.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\waMusicPro.pdb
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\csc.exe
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\csi.exe
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Http.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\WebGrease.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\Newtonsoft.Json.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Http.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csprojAssemblyReference.cache
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\Laboratorio\source\repos\waMusicPro\waMusicPro\obj\Debug\waMusicPro.pdb
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\waMusicPro.dll.config
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\waMusicPro.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\waMusicPro.pdb
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\csc.exe
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\csc.exe.config
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\csc.rsp
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\csi.exe
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\csi.exe.config
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\csi.rsp
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.AppContext.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Console.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.IO.Compression.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Security.Claims.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.ValueTuple.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\vbc.exe
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\vbc.exe.config
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\vbc.rsp
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Antlr3.Runtime.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Newtonsoft.Json.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Helpers.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Http.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Mvc.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Optimization.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Razor.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.WebPages.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\WebGrease.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Helpers.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Mvc.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Optimization.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Razor.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.WebPages.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Newtonsoft.Json.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Antlr3.Runtime.pdb
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Http.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.Razor.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.Http.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csprojAssemblyReference.cache
+D:\htorres\ASY5131\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+D:\htorres\ASY5131\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+D:\htorres\ASY5131\waMusicPro\waMusicPro\obj\Debug\waMusicPro.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\obj\Debug\waMusicPro.pdb
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Net.Http.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Security.Cryptography.Algorithms.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Security.Cryptography.Encoding.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Security.Cryptography.Primitives.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\System.Security.Cryptography.X509Certificates.dll
+D:\htorres\ASY5131\waMusicPro\waMusicPro\bin\Transbank.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\waMusicPro.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\waMusicPro.pdb
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\csc.exe
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\csi.exe
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Http.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\Transbank.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\WebGrease.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Http.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\Diegoo\Desktop\waMusicPro\waMusicPro\obj\Debug\waMusicPro.pdb
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\waMusicPro.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\waMusicPro.pdb
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\csc.exe
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\csi.exe
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Http.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\Transbank.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\WebGrease.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Http.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\Diegoo\Desktop\waMusicProLogin\waMusicPro\obj\Debug\waMusicPro.pdb
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\waMusicPro.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\waMusicPro.pdb
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\csc.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\csi.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Http.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\Transbank.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\WebGrease.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Http.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicProTransbank\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.pdb
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\waMusicPro.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\waMusicPro.pdb
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\csc.exe
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\csi.exe
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Http.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\Transbank.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\WebGrease.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Http.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\Diegoo\Desktop\waMusicProTransbank\waMusicPro\obj\Debug\waMusicPro.pdb
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\waMusicPro.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\waMusicPro.pdb
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\csc.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\csi.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Http.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\Transbank.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\WebGrease.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Http.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\alfre\Desktop\Duoc 2023\waMusicPro\waMusicPro\obj\Debug\waMusicPro.pdb
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\waMusicPro.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\waMusicPro.pdb
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\csc.exe
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\csi.exe
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Http.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Transbank.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\WebGrease.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Newtonsoft.Json.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Http.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\mamt1\OneDrive\Escritorio\Certificados_casa\waMusicPro\waMusicPro\obj\Debug\waMusicPro.pdb
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\waMusicPro.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\waMusicPro.pdb
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\csc.exe
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\csi.exe
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Http.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\Transbank.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\WebGrease.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Http.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\alfre\Downloads\waMusicPro diego\waMusicPro\waMusicPro\obj\Debug\waMusicPro.pdb
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\waMusicPro.dll.config
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\waMusicPro.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\waMusicPro.pdb
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\csc.exe
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\csc.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\csc.rsp
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\csi.exe
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\csi.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\csi.rsp
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.AppContext.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Console.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\vbc.exe
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\vbc.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\vbc.rsp
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\Antlr3.Runtime.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\Newtonsoft.Json.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Helpers.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Http.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Mvc.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Optimization.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Razor.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.WebPages.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\Transbank.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\WebGrease.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Helpers.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Mvc.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Optimization.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Razor.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.WebPages.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\Antlr3.Runtime.pdb
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Net.Http.Formatting.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Http.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\System.Web.Http.WebHost.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.Helpers.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.Mvc.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.Optimization.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.Razor.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.Http.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.AssemblyReference.cache
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CoreCompileInputs.cache
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\obj\Debug\waMusicPro.csproj.CopyComplete
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\obj\Debug\waMusicPro.dll
+C:\Users\alfre\Desktop\Duoc 2023\Integracion de plataformas\waMusicPro\waMusicPro\obj\Debug\waMusicPro.pdb

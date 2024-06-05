@@ -1,0 +1,119 @@
+﻿@model waMusicPro.Models.Producto
+
+@{
+    ViewBag.Title = "AddProducts";
+    Layout = "~/Views/Shared/_LayoutBodeguero.cshtml";
+}
+
+<h1 class="display-5 fw-bold h1 text-center">Añadir Productos</h1>
+
+@using (Html.BeginForm("", "", FormMethod.Post, new { id = "frmProductoAdd", name = "frmProductoAdd", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Descripcion, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Descripcion, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Precio, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Precio, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Precio, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Cantidad, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Cantidad, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Cantidad, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Vigente, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <div class="checkbox" id="vigenteCheckbox">
+                @Html.CheckBoxFor(model => model.Vigente, new { htmlAttributes = new { @class = "form-control", id = "vigenteCheckbox" } })
+                @Html.ValidationMessageFor(model => model.Vigente, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Imagen, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <input type="file" name="ImagenFile" accept="image/*" class="form-control" vid="imagenFile" />
+            @Html.ValidationMessageFor(model => model.Imagen, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Añadir Producto" class="btn btn-outline-dark" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    <a href="@Url.Action("Products")" class="btn btn-danger">
+        <span class="glyphicon glyphicon-arrow-left"></span> Volver al listado de productos
+    </a>
+
+</div>
+
+@section scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $("#frmProductoAdd").submit(function (e) {
+            e.preventDefault();
+
+            var formElement = document.getElementById("frmProductoAdd");
+            var formData = new FormData(formElement);
+
+            fetch('/api/Producto', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (response.ok) {
+                        // La solicitud se realizó correctamente
+                        $('#feedbackMessage').text('El producto se ha añadido correctamente.').removeClass('error').addClass('success').show();
+                        $('#frmProductoAdd')[0].reset();
+                    } else {
+                        // Error en la solicitud
+                        console.log("fracaso");
+                        $('#feedbackMessage').text('Error al enviar los datos del formulario.').removeClass('success').addClass('error').show();
+                    }
+                })
+                .catch(error => {
+                    // Error en la comunicación con el servidor
+                    console.log("fracaso");
+                    $('#feedbackMessage').text('Error al comunicarse con el servidor.').removeClass('success').addClass('error').show();
+                });
+        });
+
+
+    </script>
+}
+
+
+
+

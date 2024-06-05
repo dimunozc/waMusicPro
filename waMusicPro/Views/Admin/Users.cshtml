@@ -1,0 +1,81 @@
+﻿@model IEnumerable<waMusicPro.Models.Usuario>
+
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="display-5 fw-bold h1 text-center">Listado de Usuarios</h1>
+
+@using (Html.BeginForm("", "", FormMethod.Post, new { id = "frmUsuario", name = "frmUsuario" }))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div>
+        <p>
+
+            <a href="@Url.Action("AddUsers")" class="btn btn-primary">
+                <span class="glyphicon glyphicon-plus"></span>
+            </a>
+        </p>
+        <br />
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Username)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Password)
+                </th>
+
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Username)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Password)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar clave", "EditUser", new { id = item.Username, @class = "btn btn-outline me-2" }) |
+                        <a href="#" onclick="deleteUser(@item.Username, @Newtonsoft.Json.JsonConvert.SerializeObject(item))">Eliminar</a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+}
+@section scripts {
+
+    <script type="text/javascript">
+
+
+        function deleteUser(username, usuario) {
+            if (confirm("¿Estás seguro de que deseas eliminar este usuario?")) {
+                $.ajax({
+                    url: '/api/Usuario/' + username,
+                    method: 'DELETE',
+                    contentType: 'application/json',
+                    data: JSON.stringify(usuario),
+                    success: function (resp) {
+                        console.log(resp);
+                        location.reload();
+                    },
+                    error: function () {
+                        $('#message').html("Error eliminando al usuario.");
+                    }
+                });
+            }
+        }
+
+        function convertObjectToJSON(obj) {
+            return JSON.stringify(obj);
+        }
+    </script>
+}

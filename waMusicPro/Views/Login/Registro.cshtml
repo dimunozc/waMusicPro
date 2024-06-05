@@ -1,0 +1,67 @@
+﻿@model waMusicPro.Models.Usuario
+@{
+    ViewBag.Title = "LoginIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("", "", FormMethod.Post, new { id = "frmUsuarioAdd", name = "frmUsuarioAdd", enctype = "multipart/form-data" }))
+{
+    <head>
+        <link href="//fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+        <link href="~/Content/login.css" rel="stylesheet" />
+    </head>
+
+<body>
+    <div class="signinform">
+        <h1><img src="~/Content/images/musicpro.png" alt="Logo Musicpro" width="450px" /></h1>
+        <div class="container">
+            <div class="w3l-form-info">
+                <div class="w3_info">
+                    <h2>Registro</h2>
+                    <form action="Verify" method="post">
+                        <div class="input-group">
+                            <span><i class="fas fa-user" aria-hidden="true"></i></span>
+                            <input type="text" name="Username" placeholder="Username" required="">
+                        </div>
+                        <div class="input-group">
+                            <span><i class="fas fa-key" aria-hidden="true"></i></span>
+                            <input type="Password" name="Password" placeholder="Contraseña" required="">
+                        </div>
+                        <button class="btn btn-primary btn-block" type="submit">Registrar</button>
+                        @Html.ActionLink("Volver", "Inicio", "Home", null, new { @class = "btn btn-primary btn-block" })
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+}
+@section scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+
+        $("#frmUsuarioAdd").submit(function () {
+            $.ajax({
+                url: '/api/Usuario',
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(convertFormToJSON($('#frmUsuarioAdd'))),
+                success: function (resp) {
+                    console.log(resp);
+                },
+                error: function () {
+                    $('#message').html("Error posting the update.");
+                }
+            });
+            return false;
+        });
+
+        function convertFormToJSON(form) {
+            return $(form)
+                .serializeArray()
+                .reduce(function (json, { name, value }) {
+                    json[name] = value;
+                    return json;
+                }, {});
+        }
+    </script>
+}

@@ -1,0 +1,118 @@
+﻿@model waMusicPro.Models.Producto
+
+@{
+    ViewBag.Title = "AddProducts";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="display-5 fw-bold h1 text-center">Añadir Productos</h1>
+
+@using (Html.BeginForm("", "", FormMethod.Post, new { id = "frmProductoAdd", name = "frmProductoAdd", enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Descripcion, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Descripcion, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Precio, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Precio, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Precio, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Cantidad, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Cantidad, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Cantidad, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Vigente, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <div class="checkbox" id="vigenteCheckbox">
+                @Html.CheckBoxFor(model => model.Vigente, new { htmlAttributes = new { @class = "form-control", id = "vigenteCheckbox" } })
+                @Html.ValidationMessageFor(model => model.Vigente, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+
+    @*<div class="form-group">
+        @Html.LabelFor(model => model.Imagen, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <input type="file" name="ImagenFile" class="form-control" vid="imagenFile" id="inPhoto" />
+            @Html.ValidationMessageFor(model => model.Imagen, "", new { @class = "text-danger" })
+        </div>
+    </div>*@
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Añadir Producto" class="btn btn-outline-dark" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    <a href="@Url.Action("Products")" class="btn btn-danger">
+        <span class="glyphicon glyphicon-arrow-left"></span> Volver al listado de productos
+    </a>
+
+</div>
+
+@section scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+
+        $("#frmProductoAdd").submit(function () {
+            $.ajax({
+                url: '/api/Producto',
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(convertFormToJSON($('#frmProductoAdd'))),
+                success: function (resp) {
+                    console.log(resp);
+                },
+                error: function () {
+                    $('#message').html("Error posting the update.");
+                }
+            });
+            return false;
+        });
+
+        function convertFormToJSON(form) {
+            return $(form)
+                .serializeArray()
+                .reduce(function (json, { name, value }) {
+                    json[name] = value;
+                    return json;
+                }, {});
+        }
+
+
+
+    </script>
+}
+
+
+
+

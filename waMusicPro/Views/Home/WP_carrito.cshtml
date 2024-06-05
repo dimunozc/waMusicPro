@@ -1,0 +1,30 @@
+﻿    @{
+    ViewBag.Title = "WP_carrito";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h2>WP_carrito</h2>
+
+<div class="row" style="visibility:hidden">
+    <div class="col-md-12">
+        <form action="@ViewBag.Url" method="post">
+            <h1>Total a pagar es: <span>@ViewBag.Monto</span></h1>
+            <input type="hidden" name="token_ws" value="@ViewBag.Token" />
+            <input id="btnPagar" type="submit" value="Pagar" />
+        </form>
+    </div>
+</div>
+
+<div>
+    <h2>Redirigiendo a tu medio de pago...</h2>
+</div>
+
+@section scripts{
+    
+<script>
+    $(document).ready(function () {
+        $('#btnPagar').trigger('click');
+
+    });
+    </script>
+}

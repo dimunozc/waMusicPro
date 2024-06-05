@@ -1,0 +1,49 @@
+﻿@model IEnumerable<waMusicPro.Models.Producto>
+
+
+@{
+    ViewBag.Title = "Products2";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1 class="display-5 fw-bold h1 text-center">Productos</h1>
+<div class="row">
+</div>
+
+<section class="contenedor">
+    <!-- Contenedor de elementos -->
+    <div class="contenedor-items">
+        @foreach (var item in Model)
+        {
+            <div class="item">
+                <span class="id-item" style="display: none">@Html.DisplayFor(modelItem => item.ProductoId)</span>
+                <span class="titulo-item">@Html.DisplayFor(modelItem => item.Nombre)</span>
+                <span class="titulo-item">@Html.DisplayFor(modelItem => item.Descripcion)</span>
+                <img src="~/Content/images/products/guitarra-acustica.jpg" alt="" class="img-item" />
+                <span class="precio-item">$@Html.DisplayFor(modelItem => item.Precio)</span>
+                <button class="boton-item">Agregar al Carrito</button>
+            </div>
+        }
+    </div>
+    <!-- Carrito de Compras -->
+    <div class="carrito" id="carrito">
+        <div class="header-carrito">
+           <h2>Carrito de compras</h2>
+        </div>
+        <div class="carrito-items">
+        </div>
+        <div class="carrito-total">
+            <div class="fila">
+                <strong>Total a pagar</strong>
+                <span class="carrito-precio-total"> $12.000.00 </span>
+            </div>
+            <button class="btn-pagar" id="btn-pagar">
+                Pagar <i class="fa-solid fa-bag-shopping"></i>
+            </button>
+            <br />
+            <button class="btn-ocultar-carrito">
+                    Ocultar Carrito <i class="fa-solid fa-xmark"></i>
+                </button>
+        </div>
+    </div>
+</section>

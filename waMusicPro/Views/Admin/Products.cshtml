@@ -1,0 +1,105 @@
+﻿@model IEnumerable<waMusicPro.Models.Producto>
+
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1 class="display-5 fw-bold h1 text-center">Listado de Productos</h1>
+@using (Html.BeginForm("", "", FormMethod.Post, new { id = "frmProducto", name = "frmProducto" }))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div>
+        <p>
+
+            <a href="@Url.Action("AddProducts")" class="btn btn-primary">
+                <span class="glyphicon glyphicon-plus"></span>
+            </a>
+        </p>
+        <br />
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductoId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Precio)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Cantidad)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Vigente)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductoId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descripcion)
+                    </td>
+                    <td>
+                        $@Html.DisplayFor(modelItem => item.Precio)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cantidad)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Vigente)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar", "EditProducts", new { id = item.ProductoId, @class = "btn btn-outline me-2" }) |
+                        @Html.ActionLink("Detalles", "Details", new { id = item.ProductoId }) |
+                        <a href="#" onclick="deleteProduct(@item.ProductoId, @Newtonsoft.Json.JsonConvert.SerializeObject(item))">Eliminar</a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+}
+@section scripts {
+
+    <script type="text/javascript">
+
+
+        function deleteProduct(productoId, producto) {
+            if (confirm("¿Estás seguro de que deseas eliminar este producto?")) {
+                $.ajax({
+                    url: '/api/Producto/' + productoId,
+                    method: 'DELETE',
+                    contentType: 'application/json',
+                    data: JSON.stringify(producto),
+                    success: function (resp) {
+                        console.log(resp);
+                        location.reload();
+                    },
+                    error: function () {
+                        $('#message').html("Error deleting the product.");
+                    }
+                });
+            }
+        }
+
+        function convertObjectToJSON(obj) {
+            return JSON.stringify(obj);
+        }
+    </script>
+}
